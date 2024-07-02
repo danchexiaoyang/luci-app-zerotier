@@ -1,2 +1,2 @@
 # luci-app-zerotier
-luci-app-zerotier汉化优化版
+在rufengsuixing版本的基础上进行了汉化优化
